@@ -3,10 +3,11 @@
  }
   .Ellipse 1{
     position: absolute;
-    width: 299px;
-    height: 209px;
-    left: 439px;
-    top: 18px;
+    width: 159px;
+    height: 259px;
+    margin-left: 439px;
+    margin-right: 4567;
+    margin-top: 18px;
 
     background: url.Ellipse 1
   }
@@ -28,4 +29,10 @@ font-weight: 400;
 font-size: 36px;
 line-height: 44px;
 
+  }
+   header{
+     background-color: gray
+   }
+  img{
+   width: 299px
   }
