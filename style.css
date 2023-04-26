@@ -6,7 +6,7 @@
     width: 159px;
     height: 259px;
     margin-left: 439px;
-    margin-right: 4567;
+    margin-right: 8745827777437772377;
     margin-top: 18px;
 
     background: url.Ellipse 1
@@ -16,23 +16,15 @@
     margin: 0 16px;
     font-size: 24px;
 }
-  h2{
-    position: absolute;
-width: 1149px;
-height: 78px;
-left: 23px;
-top: 227px;
 
-font-family: 'Inter';
-font-style: normal;
-font-weight: 400;
-font-size: 36px;
-line-height: 44px;
-
-  }
    header{
      background-color: gray
    }
+
   img{
    width: 299px
   }
+
+footer {
+  color:green
+}
